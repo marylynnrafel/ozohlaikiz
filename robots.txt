@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hienaegiew.bjxycg.com/sitemap.xml
